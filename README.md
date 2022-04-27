@@ -2,9 +2,12 @@
 Resources and test apps based on the book 
 
 *** 4.21.22  ***
--Added Project: Hello.swift
--Added Project: Hobby_Tutorial.swift
+-Added Project: Hello
+-Added Project: Hobby_Tutorial
 
 *** 4.23.22 ***
--Added Project: CommonInputControls.swift
--Added Project: TwoButtons.swift
+-Added Project: CommonInputControls
+-Added Project: TwoButtons
+
+*** 4.26.22 ***
+-Added Project: AutoLayoutPractice
