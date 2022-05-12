@@ -22,3 +22,4 @@ Resources and test apps based on the book
 
 *** 5.12.22 ***
 -Added Project: RainbowTabs 
+-Added Project: LifeCycle
